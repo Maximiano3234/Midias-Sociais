@@ -1,4 +1,4 @@
-## sou Maximiano!
+## Sou Maximiano!
 
  
 
@@ -10,7 +10,6 @@
 
 :outbox_tray: Metas: Sempre criar novos projetos para desenvolver ainda mais meu intelecto...
 
- 
 
 ## Sobre mim
 
@@ -24,6 +23,11 @@
 
 ----------------------------------------------------------------------------------
 ## Icones para midias sociais ...
+<p align="center">Escrever uma breve descrição</p>
+## Status
+<h4 align="center"> 
+	🚧  Em construção... 🚀 Em construção...  🚧
+</h4>
 ## deixe sua contribuição nos códigos...
 ## HTML
 ## CSS
