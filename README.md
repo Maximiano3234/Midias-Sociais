@@ -1,8 +1,7 @@
 ## Sou Maximiano!
 
  
-
-:computer: Front-End Developer!
+:computer: Front-End!
 
 :house_with_garden: Brasil.
 
@@ -17,13 +16,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/maximiano-s-ramiro-88825854/)
 
-- Obrigado pela visita.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
-## Icones para midias sociais ...
-<p align="center">Escrever uma breve descrição</p>
+## Descrição ...
+<p align="center">Construção de ícones para midias sociais como, Facebooc, Twiter, etc...</p>
 ## Status
 <h4 align="center"> 
 	🚧  Em construção... 🚀 Em construção...  🚧
@@ -33,3 +29,5 @@
 ## CSS
 ## JAVASCRIPT
 ----------------------------------------------------------------------------------
+
+- Obrigado pela visita.
